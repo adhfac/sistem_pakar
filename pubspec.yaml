@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts: ^6.2.1
+  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +19,28 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - images/AbsesParafaringeal.png
+    - images/AbsesPeritonailer.png
+    - images/BarotitisMedia.png
+    - images/DeviasiSeptum.png
+    - images/Faringitis.png
+    - images/KankerLaring.png
+    - images/KankerLeherKepala.png
+    - images/KankerLeherMetastatik.png
+    - images/KankerNasofaring.png
+    - images/KankerTonsil.png
+    - images/Laringitis.png
+    - images/NeuronitisVestibularis.png
+    - images/Osteosklerosis.png
+    - images/OtitisMediaAkut.png
+    - images/Meniere.png
+    - images/Tonsilitis.png
+    - images/TumorSyarafPendengaran.png
+    - images/VertigoPostular.png
+    - images/SinusitisMaksilaris.png
+    - images/SinusitisFrontalis.png
+    - images/SinusitisEtmoidalis.png
+    - images/SinusitisSfenoidalis.png
+    - images/SakitPerut.png
+    - images/ContractUlcers.png
